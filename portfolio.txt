@@ -1,0 +1,4 @@
+Symbol,Quantity,Price
+Stellar,12000,0.05
+Bitcoin,1,5000
+Cardano,1432,0.005
